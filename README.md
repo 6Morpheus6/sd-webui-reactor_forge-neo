@@ -4,9 +4,9 @@
   
   <hr>
   
-  ![Last commit](https://img.shields.io/gitea/last-commit/Gourieff/sd-webui-reactor/main?gitea_url=https%3A%2F%2Fcodeberg.org&cacheSeconds=0)
-  [![Opened issues](https://img.shields.io/gitea/issues/open/Gourieff/sd-webui-reactor?gitea_url=https%3A%2F%2Fcodeberg.org&color=red&cacheSeconds=0)](https://codeberg.org/Gourieff/sd-webui-reactor/issues)
-  [![Closed issues](https://img.shields.io/gitea/issues/closed/Gourieff/sd-webui-reactor?gitea_url=https%3A%2F%2Fcodeberg.org&color=green&cacheSeconds=0)](https://codeberg.org/Gourieff/sd-webui-reactor/issues?q=is%3Aissue+is%3Aclosed)
+  [![Last commit](https://img.shields.io/github/last-commit/6Morpheus6/sd-webui-reactor_forge-neo/master)](https://github.com/6Morpheus6/sd-webui-reactor_forge-neo/commits/master)
+  [![Opened issues](https://img.shields.io/github/issues/6Morpheus6/sd-webui-reactor_forge-neo?color=red)](https://github.com/6Morpheus6/sd-webui-reactor_forge-neo/issues?q=is%3Aissue+is%3Aopen)
+  [![Closed issues](https://img.shields.io/github/issues-closed/6Morpheus6/sd-webui-reactor_forge-neo?color=green)](https://github.com/6Morpheus6/sd-webui-reactor_forge-neo/issues?q=is%3Aissue+is%3Aclosed)
 
   English | [Русский](README_RU.md)
 
